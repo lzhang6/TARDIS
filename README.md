@@ -41,3 +41,7 @@ For whole cluster environment, consult your cluster administer. The configure fi
 ### 1.3.4 Download
 * [source code](fig/tardis.tar.gz)
 * [jar file](fig/tardis_2.11-1.0.jar)
+
+####  Fairness of Usage 
+    If you use our program or code, please reference this paper in your paper as 
+    Liang Zhang, Noura Alghamdi, Mohamed Y. Eltabakh, Elke A. Rundensteiner. TARDIS: Distributed Indexing Framework for Big Time Series Data. Proceedings of 35th IEEE International Conference on Data Engineering ICDE, 2019.
