@@ -39,7 +39,7 @@ Change cluster application configure in the spark-defaults.conf
 For whole cluster environment, consult your cluster administer. The configure file should be stored under hadoop/etc/hadoop/ and spark/conf directories.
 
 ### 1.3.4 Download
-* [source code](fig/tardis.tar.gz)
+* The code will be relased soon.
 * [jar file](fig/tardis_2.11-1.0.jar)
 
 ####  Fairness of Usage 
