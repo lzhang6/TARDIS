@@ -1,11 +1,11 @@
 # Attention:
 Please make sure correctly understand my paper and code before Tardis is used as baseline. 
 
-Some authors obviously didn't properly use Tardis.
-1. some ones use 100% rather 5% data to build index to show that their system can build index faster, which lead Tardis load data twice. But fail to build indexing using sampling never happen when I use Tardis.
+In past few years, some authors obviously didn't properly use Tardis.
+1. some ones use 100% rather 5% data to build index to show that their system can build index faster, which lead Tardis load data twice. (Your execuate given in the paper never happen when I use Tardis)
 2. some ones claim Tardis don't support exact search (1-NN) to avoid using Tardis as baseline.
 
-Please respect my contribution, focus on the real innovation of Tardis.
+Please respect my contribution and focus on the real innovation of Tardis.
 
 # 1. Setting for running environment 
 * * *
