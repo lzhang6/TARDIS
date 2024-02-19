@@ -1,8 +1,8 @@
 # Attention:
-Please make sure understand the paper correctly and use the code properly before Tardis is used as baseline in your search. 
+Please make sure understand the paper correctly and use the code properly before Tardis is used as baseline in your publication. 
 
 Some authors obviously didn't properly use Tardis.
-1. some ones use 100% rather 5% data to build index to show that their system can build index faster, which lead Tardis load data twice. 
+1. some ones use 100% rather 5% data to build index to show that their system can build index faster, which leads Tardis load data twice. 
 2. some ones claim Tardis don't support exact search, which is (1-NN), to avoid using Tardis as baseline.
 
 # 1. Setting for running environment 
