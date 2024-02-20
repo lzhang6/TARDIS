@@ -1,10 +1,3 @@
-# Attention:
-Please make sure understand the paper correctly and use the code properly before Tardis is used as baseline in your publication. 
-
-Some authors obviously didn't properly use Tardis.
-1. some ones use 100% rather 5% data to build index to show that their system can build index faster, which leads Tardis load data twice. 
-2. some ones claim Tardis don't support exact search, which is (1-NN), to avoid using Tardis as baseline.
-
 # 1. Setting for running environment 
 * * *
 ## 1.1 Requirements
@@ -47,9 +40,10 @@ For whole cluster environment, consult your cluster administer. The configure fi
 
 ### 1.3.4 Download
 * [source code](fig/tardis.tar.gz)
-* [jar file](fig/tardis_2.11-1.0.jar)
 
 ####  Fairness of Usage 
+Please make sure understand the paper correctly and use the code properly before Tardis is used as baseline in your publication. 
+
 If you use our program or code, please reference this paper in your paper as 
 
 Liang Zhang, Noura Alghamdi, Mohamed Y. Eltabakh, Elke A. Rundensteiner. TARDIS: Distributed Indexing Framework for Big Time Series Data. Proceedings of 35th IEEE International Conference on Data Engineering ICDE, 2019.
